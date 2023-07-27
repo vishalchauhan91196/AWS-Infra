@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+Connect with me:
 <a href="https://www.linkedin.com/in/vishal-chauhan-091196">
   LinkedIn
 </a>
@@ -9,8 +9,7 @@
 </a>
 
 <br />
-
-
+<br />
 
 Hello, I'm Vishal Chauhan currently leading a DevOps Project in a US based firm. I have 4+ years of hands-on experience in automating & optimizing DevOps processes, provisioning the infrastructure to be highly available as well as fault-tolerant. 
 
