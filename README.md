@@ -18,6 +18,8 @@ Hello, I'm **Vishal Chauhan** currently **leading a DevOps Project** in a US bas
   
 - 💬 Ask me about anything, I am happy to help.
 
+  <br>
+
 **Languages and Tools:**  
 I have worked on various DevOps oriented tools. <br> <br>
   Cloud- AWS <br>
@@ -28,7 +30,7 @@ I have worked on various DevOps oriented tools. <br> <br>
   Security - Hashicorp Vault and Consul <br>
   Testing - Sonarqube <br>
   Artifact Management - Nexus <br>
-  Software Configuration - Ansible, Chef <br>
+  Software Configuration - Ansible, Chef <br> <br>
   
 
 📊 **This Week I Spent My Time On:**
