@@ -10,6 +10,8 @@
 
 <br />
 
+
+
 Hello, I'm Vishal Chauhan currently leading a DevOps Project in a US based firm. I have 4+ years of hands-on experience in automating & optimizing DevOps processes, provisioning the infrastructure to be highly available as well as fault-tolerant. 
 
 
