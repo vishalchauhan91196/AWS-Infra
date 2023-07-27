@@ -1,8 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.youtube.com/channel/UCDOiThc91N7OwBLCscAeBzg">
-  <img align="left" alt="Apoorv's | Youtube" width="22px" src="https://user-images.githubusercontent.com/66588814/113710050-d6888f00-9700-11eb-9ab6-fb6a38ffdc66.png" />
+<a href="https://www.linkedin.com/in/vishal-chauhan-091196">
+  <img align="left" alt="Vishal's | LinkedIn" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FkMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw&tbnid=f084GhCClOHCNM&vet=12ahUKEwiS-syEqa6AAxWc2zgGHSwpDOsQMygBegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.linkedin.android%26hl%3Den_US&docid=2b8G0Orj3IjoBM&w=512&h=512&q=linkedin&ved=2ahUKEwiS-syEqa6AAxWc2zgGHSwpDOsQMygBegUIARDvAQ" />
 </a>
 <a href="https://virtualdoxxindia.com/">
   <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://user-images.githubusercontent.com/66588814/113699838-b900f880-96f3-11eb-83cb-cd7bb1266df3.png" />
