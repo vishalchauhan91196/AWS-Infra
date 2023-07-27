@@ -19,7 +19,7 @@ Hello, I'm **Vishal Chauhan** currently **leading a DevOps Project** in a US bas
 - 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
-I have worked on various DevOps oriented tools. </n>
+I have worked on various DevOps oriented tools. </ln>
   Cloud- AWS
   IaaC - Terraform
   Container Orchestration - Kubernetes, Docker
