@@ -19,16 +19,16 @@ Hello, I'm **Vishal Chauhan** currently **leading a DevOps Project** in a US bas
 - 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
-I have worked on various DevOps oriented tools. </ln>
-  Cloud- AWS
-  IaaC - Terraform
-  Container Orchestration - Kubernetes, Docker
-  CICD - Jenkins, AWS CodePipeline, GitActions, Argo CD
-  Logs & Monitoring - AWS OpenSearch, Prometheus, Grafana
-  Security - Hashicorp Vault and Consul
-  Testing - Sonarqube
-  Artifact Management - Nexus
-  Software Configuration - Ansible, Chef
+I have worked on various DevOps oriented tools. <br>
+  Cloud- AWS <br>
+  IaaC - Terraform <br>
+  Container Orchestration - Kubernetes, Docker <br>
+  CICD - Jenkins, AWS CodePipeline, GitActions, Argo CD <br>
+  Logs & Monitoring - AWS OpenSearch, Prometheus, Grafana <br>
+  Security - Hashicorp Vault and Consul <br>
+  Testing - Sonarqube <br>
+  Artifact Management - Nexus <br>
+  Software Configuration - Ansible, Chef <br>
   
 
 📊 **This Week I Spent My Time On:**
